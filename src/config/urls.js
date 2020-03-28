@@ -1,0 +1,1 @@
+export const URL = {providersApiUrl: "https://biz2creditisp.firebaseio.com/providers.json"};
